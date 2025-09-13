@@ -1,0 +1,40 @@
+.help-container {
+  padding: 40px;
+  max-width: 900px;
+  margin: 30px auto;
+  background: #f9fafb;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  min-height: 80vh;
+}
+
+.help-title {
+  font-size: 32px;
+  font-weight: bold;
+  color: #222;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.help-intro {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 30px;
+  color: #333;
+  text-align: justify;
+}
+
+.help-subtitle {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  color: #1e40af;
+}
+
+.help-list {
+  list-style: disc inside;
+  font-size: 16px;
+  color: #444;
+  line-height: 1.8;
+  padding-left: 10px;
+}

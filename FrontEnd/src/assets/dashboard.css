@@ -1,0 +1,21 @@
+.VideoInput_input {
+  display: none;
+}
+
+.custom-button {
+  width: 180px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.button-drop {
+  background-color: #ff6600 !important;
+}
+
+.button-add {
+  background-color: black !important;
+}
+
+.button-analysis {
+  background-color: #096800 !important;
+}
